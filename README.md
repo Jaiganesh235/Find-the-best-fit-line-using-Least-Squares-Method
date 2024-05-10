@@ -61,6 +61,15 @@ plt.show()
 
 
 ```
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 ## Output:
 ![Screenshot (300)](https://github.com/Jaiganesh235/Find-the-best-fit-line-using-Least-Squares-Method/assets/118657189/47f0f3b7-b934-45e2-9eb8-e0c8bf1ff225)
